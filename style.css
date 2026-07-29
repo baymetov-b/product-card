@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-  background-image: url("../images/fon-bg-1.png");
+  background-image: url("images/fon-bg-1.png");
   background-repeat: no-repeat;
   padding: 220px 85px 116px;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .amount {
-  font-weight: 40;
+  font-weight: 400;
   font-size: 20px;
   line-height: 24px;
   margin: 0;
